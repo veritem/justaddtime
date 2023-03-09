@@ -1,4 +1,4 @@
-### addTime
+### addtime
 
 ![npm](https://img.shields.io/npm/v/replace-package-name-here)
 
