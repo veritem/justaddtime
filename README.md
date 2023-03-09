@@ -1,6 +1,6 @@
 ### justaddtime
 
-![npm](https://img.shields.io/npm/v/replace-package-name-here)
+![npm](https://img.shields.io/npm/v/justaddtime)
 
 > Never use a huge date libary just to add dates  
 
