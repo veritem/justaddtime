@@ -1,4 +1,4 @@
-export function addTime(date: Date, time: number, type: 'seconds' | 'minutes' | 'hours' | 'days' | 'weeks' | 'months' | 'years') {
+export default function addTime(date: Date, time: number, type: 'seconds' | 'minutes' | 'hours' | 'days' | 'weeks' | 'months' | 'years') {
 	switch (type) {
 		case 'seconds':
 			return new Date(date.getTime() + time * 1000)
