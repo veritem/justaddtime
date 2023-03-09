@@ -1,6 +1,6 @@
 {
 	"name": "@veritem/addtime",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "package template description here",
 	"main": "./dist/index.cjs",
 	"module": "./dist/index.mjs",
