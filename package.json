@@ -1,5 +1,5 @@
 {
-	"name": "ts-lib-template",
+	"name": "@veritem/addtime",
 	"version": "0.0.1",
 	"description": "package template description here",
 	"main": "./dist/index.cjs",
