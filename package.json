@@ -1,5 +1,5 @@
 {
-	"name": "@veritem/addtime",
+	"name": "justaddtime",
 	"version": "0.0.4",
 	"description": "package template description here",
 	"main": "./dist/index.cjs",
